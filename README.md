@@ -1,2 +1,5 @@
 # Banking-Calculator
-Interest calculator
+
+This project takes user input for deposit amount, deposits per month, interest rate, and number of years. Displays two static reports showing accrued interest per year, compounded monthly with and without additional monthly deposits. Developed as a project to practice functional and object-oriented programming. 
+
+I believe what I did well in this project was encapsulate code proficiently within the appropriate functions. This code could be enhanced by creating a class for each static report. As it stands right now the second report utilizes a class whereas the first report is developed with functional programming. This is due to the fact that I still find object oriented programming to be a concept I am still actively learning to implement. The skills in this project that I believe could transfer well to another project are the concepts implemented around functional and object oriented programming. I made sure to include plenty of comments to explain nearly all the code involved.
